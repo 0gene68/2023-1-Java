@@ -38,6 +38,7 @@ public class Television {
 		yourTV.isOn = false; //yourTV의 on/off 상태를 off로 설정
 		yourTV.getChannel(); //yourTV의 채널 반환
 		yourTV.print(); //텔레비전 객체 상태 출력
+		
 	}
 }
 
