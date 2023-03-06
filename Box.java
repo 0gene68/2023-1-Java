@@ -13,6 +13,5 @@ public class Box {
 		
 		//객체 정보 상태 출력
 		System.out.println("상자의 가로, 세로, 높이는 " + width + ", " + length + ", " + height + "입니다. ");
-		
 	}
 }
