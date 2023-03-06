@@ -42,11 +42,5 @@ public class Car {
 
         //자동차가 100km를 가는 데에 필요한 연료의 양 출력
         System.out.println("A car needs " + myCar.fuel() + " liters of fuel to travel 100 km.");
-
     }
-
-    
-
-    
-
 }
