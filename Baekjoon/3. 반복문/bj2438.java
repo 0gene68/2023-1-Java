@@ -14,7 +14,5 @@ public class bj2438 {
             }
             System.out.println();
         }
-
-
     }
 }
