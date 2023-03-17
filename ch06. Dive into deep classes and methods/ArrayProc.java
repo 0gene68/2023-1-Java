@@ -8,7 +8,7 @@ public class ArrayProc {
     public void getValues(int[] array){
         Scanner sc = new Scanner(System.in);
         for(int i = 0; i < array.length; i++){
-            System.out.println("성적을 입력하시오:");
+            System.out.println("Enter your grade:");
             array[i] = sc.nextInt();
         }
     }
@@ -26,7 +26,7 @@ public class ArrayProc {
         ArrayProc ap = new ArrayProc();
         ap.getValues(scores);
         
-        System.out.println("평균은 = " + ap.getAverage(scores));
+        System.out.println("The average = " + ap.getAverage(scores));
     }
 
 }
