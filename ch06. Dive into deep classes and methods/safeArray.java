@@ -40,3 +40,4 @@ public class safeArray {
         System.out.println(array.get(10)); //10번 인덱스의 값을 출력 -> 10번 인덱스가 존재하지 않으므로 "잘못된 인덱스 : 10 -1"이 출력됨
     }
 }
+
