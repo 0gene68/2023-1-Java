@@ -28,6 +28,5 @@ public class Time {
 
         Time time3 = new Time(24, 60, 60);
         System.out.println("Time after incorrect time settingS : " + time3.toString());
-
     }
 }
