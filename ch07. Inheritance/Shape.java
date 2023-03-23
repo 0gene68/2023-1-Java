@@ -16,6 +16,6 @@ public class Shape {
     int x, y;
 
     public void print(){
-        System.out.println("x좌표 : " + x + " y좌표 : " + y);
+        System.out.println("x coordinate : " + x + " y coordinate : " + y);
     }
 }
