@@ -9,7 +9,7 @@ public class bj10809 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String s = br.readLine();
 
-		// -1로 된 알파벳 갯수26개 배열 생성
+		// -1로 된 알파벳 갯수 26개 배열 생성
 		int arr[] = new int[26];
 		for (int i = 0; i < 26; i++) {
 			arr[i] = -1;
