@@ -9,7 +9,7 @@ public class CallbackTest {
     public static void main(String[] args) {
         ActionListener al = new TimerTest();
 
-        // actionPerformed()를 호출해달라고 Timer에 등록함
+        // actionPerformed()를 호출해달라고 Timer에 등록함 
         // Register the Timer to call actionPerformed()
         Timer t = new Timer(1000, al); 
 
