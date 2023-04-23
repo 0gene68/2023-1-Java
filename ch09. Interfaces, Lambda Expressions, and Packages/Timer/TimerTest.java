@@ -7,7 +7,7 @@ public class TimerTest implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) { 
-        // Timer에 의하여 1초에 한번씩 호출됨
+        // Timer에 의하여 1초에 한번씩 호출됨 
         // Called once per second by Timer
         System.out.println("Beep");
     }   
