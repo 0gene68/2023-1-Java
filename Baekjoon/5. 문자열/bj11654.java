@@ -9,7 +9,7 @@ public class bj11654 {
         char ch = sc.nextLine().charAt(0);
         int num = (int)ch;        
 
-        System.out.println(num);
+        System.out.println(num); 
 
     }
 }
