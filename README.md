@@ -18,12 +18,12 @@
 
 - LAB assignments in university lectures
   - Relearn what I learned in the lecture through examples called LAB assignments.
-- Various problems with Baekjoon site ([link](https://www.acmicpc.net/)).
+- Various problems with Baekjoon site ([link](https://www.acmicpc.net/)). 
   - In addition to OOP, basic grammars of Java are reviewed again through various problems on the Baekjoon site.
 <br><br>
 
 - 大学講義のLAB課題
   - LAB課題と呼ばれる例を通して、講義で学んだことを再び学びます。
 - Baekjoonサイト([リンク](https://www.acmicpc.net/))の様々な問題
-  - OOPだけでなく、Javaの基礎文法をBaekjoonサイトの様々な問題を通して再度復習します。 
+  - OOPだけでなく、Javaの基礎文法をBaekjoonサイトの様々な問題を通して再度復習します。  
  
