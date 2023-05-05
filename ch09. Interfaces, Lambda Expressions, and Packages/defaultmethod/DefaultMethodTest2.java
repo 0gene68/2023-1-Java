@@ -20,7 +20,7 @@ interface OperateCar {
     // 디폴트 메소드(default method)
     default public void fly() {
         System.out.println("Flying Sky!");
-    }
+    } 
 }
 
 class OldCar implements OperateCar {
