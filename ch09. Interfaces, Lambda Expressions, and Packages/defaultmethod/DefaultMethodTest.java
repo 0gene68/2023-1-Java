@@ -2,7 +2,7 @@ package ch09.defaultmethod;
 
 interface myInterFace {
     // 일반적인 추상 메소드
-    // common abstract method
+    // common abstract method 
     public void myMethod1();
 
     // 디폴트 메소드 : 인터페이스 내에서 메소드의 디폴트 구현을 제공할 수 있는 기능
