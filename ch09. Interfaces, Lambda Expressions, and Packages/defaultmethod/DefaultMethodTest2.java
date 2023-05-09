@@ -4,7 +4,7 @@ interface OperateCar {
 // 디폴트 메소드
 // 인터페이스 안에 생성되는 메소드 중 하나
 // 해당 인터페이스를 구현하는 클래스에서 오버라이드하지 않아도 상속됨  
-// 인터페이스의 메소드 선언 시 앞에 default 키워드를 붙여 생성함
+// 인터페이스의 메소드 선언 시 앞에 default 키워드를 붙여 생성함 
 
 // default method
 // one of the methods created inside the interface
