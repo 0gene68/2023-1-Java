@@ -2,7 +2,7 @@
 - 2023년에 Java(특히, 객체지향 프로그래밍)에 대해 공부한 코드들을 올립니다. 
 <br>
 
-- I'm uploading the codes I studied about Java (especially object-oriented programming) in 2023.  
+- I'm uploading the codes I studied about Java (especially object-oriented programming) in 2023.   
 <br>
 
 - 2023年にJava（特にオブジェクト指向プログラミング）について勉強したコードを掲載します。
