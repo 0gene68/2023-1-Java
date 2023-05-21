@@ -1,6 +1,6 @@
 package 문자열;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 public class bj2675 {
  
 	public static void main(String[] args) {
