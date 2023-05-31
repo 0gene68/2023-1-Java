@@ -1,12 +1,12 @@
-# JAVA_OOP_2023 <b>(KR/EN/JP)</b> 
-- 2023년에 Java(특히, 객체지향 프로그래밍)에 대해 공부한 코드들을 올립니다.  
-<br>   
+# JAVA_OOP_2023 <b>(KR/EN/JP)</b>
+- 2023년에 Java(특히, 객체지향 프로그래밍)에 대해 공부한 코드들을 올립니다.
+<br>
 
-- I'm uploading the codes I studied about Java (especially object-oriented programming) in 2023. 
-<br> 
+- I'm uploading the codes I studied about Java (especially object-oriented programming) in 2023.
+<br>
 
 - 2023年にJava（特にオブジェクト指向プログラミング）について勉強したコードを掲載します。
-<br><br> 
+<br><br>
 
 
 # 올리는 것들 (Things to raise / 投稿するもの)
